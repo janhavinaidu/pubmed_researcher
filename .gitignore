@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+
+# Ignore large data files (optional)
+*.csv
+*.xlsx
+*.pkl
+*.h5
+
+# Ignore logs and temporary files
+*.log
+*.tmp
